@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PlayWithObjC' target in the 'PlayWithObjC' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

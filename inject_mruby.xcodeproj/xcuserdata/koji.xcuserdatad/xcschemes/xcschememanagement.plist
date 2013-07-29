@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CocoaHijack.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CocoaSingleWindowApplication.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>PlayWithObjC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>TestConsoleView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>TestUsingMruby.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>EB07B9701760F2DE00BF1F12</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EB9244EC179AB22700CA68D7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EBB23CB01796F76100E4D575</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EBC41E0617A5737600567B0D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EBDE9FCF176377A400E14D00</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EBDE9FE5176377A500E14D00</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

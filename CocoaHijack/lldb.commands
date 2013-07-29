@@ -1,0 +1,4 @@
+expr (char)[[NSBundle bundleWithPath:@"/Users/koji/work/mruby/inject_mruby/build/inject_mruby/Build/Products/Debug/CocoaHijack.framework"] load]
+expr (CocoaHijack *)[CocoaHijack sharedCocoaHijack]
+expr [$1 injectMenu]
+c
